@@ -4,3 +4,5 @@
 Here is an example game between two players:
 
 ![image](https://user-images.githubusercontent.com/44384500/167774465-5f7c92a8-099c-4831-bd69-106efe06e29f.png)
+
+You can play and simulate a single death roll game yourself by executing the `deathroll_game.py` script :)
