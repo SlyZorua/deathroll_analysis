@@ -5,4 +5,19 @@ Here is an example game between two players:
 
 ![image](https://user-images.githubusercontent.com/44384500/167774465-5f7c92a8-099c-4831-bd69-106efe06e29f.png)
 
-You can play and simulate a single death roll game yourself by executing the `deathroll_game.py` script :)
+You can play and simulate a single death roll game yourself by downloading executing the `deathroll_game.py` script with Python installed.
+
+`deathroll_analysis.ipynb` is a Python Jupyter Notebook file, you can view its contents by clicking it above. 
+
+If you'd like to run your own simulations, download `deathroll_analysis.ipynb` and open it in Jupuyter Notebook or in Visual Studio Code, or any text editor of your choice that can interpret ipynb files. You'll have to install a few packages to Python. Open Command Promp then type:
+
+`pip install matplotlib`
+
+`pip install numpy`
+
+If you have issues with pip, you may need to install pip and/or ipython like so:
+`pip install pip`
+`pip install PyPi`
+
+If you are using Conda and somehow don't have these packages pre-installed, copy the same steps as above but instead type them into the Anaconda Prompt.
+`
