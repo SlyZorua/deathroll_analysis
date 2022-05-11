@@ -13,6 +13,7 @@ current_player = 1
 
 while True:
     # Roll 1-current_roll
+    print("Player " + str(current_player) + " is about to roll from 1 to " + str(current_roll))
     current_roll = randint(1,current_roll)
     print("Player " + str(current_player) + " rolled a: " + str(current_roll))
     
